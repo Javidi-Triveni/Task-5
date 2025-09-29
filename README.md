@@ -12,7 +12,7 @@ Exploratory Data Analysis (EDA) of the Titanic dataset to extract insights and p
    ```
 3. Open the notebook:
    ```
-   jupyter notebook titanic_eda.ipynb
+   jupyter notebook titanic eda.ipynb
    ```
 4. Run cells sequentially. The notebook uses the `seaborn` built-in Titanic dataset, so no external download required.
 
